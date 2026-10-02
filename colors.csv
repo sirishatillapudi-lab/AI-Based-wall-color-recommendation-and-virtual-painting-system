@@ -1,0 +1,151 @@
+No,Color,ShadeCode,HEX,Category
+001,Air Breeze,9436,#DCE8E5,Cool
+002,Button Rose,8108,#D9A5A7,Warm
+003,Soft Breeze,8116,#DDE8E4,Cool
+004,Zinnia Bloom,8716,#F3C4B8,Warm
+005,Essence,8099,#D8D4C8,Neutral
+006,Pink Mist,8092,#E7C8C9,Pastel
+007,Angel Harp,8124,#E8D9D0,Neutral
+008,Lucid Dream,5182,#D7E3E2,Cool
+009,Winged Angel,8100,#E8DCD2,Neutral
+010,Touch Of Fuschia,8140,#D7A4C0,Bright
+011,Day Lily,8060,#F0C5A7,Warm
+012,Tinge Of Rose,8084,#E6B9B8,Pastel
+013,Soft Chenille,8036,#D9C7B9,Neutral
+014,Zen,8676,#C9D1C7,Cool
+015,White Clay,8620,#F1EEE5,Neutral
+016,Milkshake,8012,#E9D5C1,Neutral
+017,Lilac Frost,7148,#DCD3E8,Pastel
+018,Twilight Sky,8204,#A9B9CF,Cool
+019,Daisy Bloom,L178,#F1D8B7,Warm
+020,Willow Creek,8068,#B5B7A4,Cool
+021,Gossamer,8052,#D8D4CB,Neutral
+022,Blush,L139,#E6B5B6,Pastel
+023,Summer Blush-N,0945,#E4A9A7,Pastel
+024,Pale Chiffon,7155,#E9D9C9,Neutral
+025,Lavender Lace,7156,#DDD2E5,Pastel
+026,Delicate Violet,7164,#C9BBD4,Pastel
+027,Gem Stone,7172,#B7A9C1,Pastel
+028,Lilac Breeze,7188,#D3C4DC,Pastel
+029,Jet Stream,7300,#B7C5CE,Cool
+030,Surfs Up,7308,#B8D7D7,Cool
+031,Spring Dew,7348,#DCE8D3,Cool
+032,Spring Thaw,7388,#D8E5D4,Cool
+033,Whispering Breeze,7412,#D5E0E0,Cool
+034,Aqua Hint,L114,#D5E9E5,Cool
+035,Innocent White,L180,#F2F0E8,Neutral
+036,White Sugar,L181,#F5F3EA,Neutral
+037,Pigeon Blue-N,0122,#9CB5C7,Cool
+038,Peacock Blue-N,0161,#237D9C,Cool
+039,Manor Blue-N,0195,#738EA5,Cool
+040,Armada,0U29,#435D6B,Dark
+041,Alliance,1203,#B2C8D4,Cool
+042,Blue Clover,1218,#5B86A5,Cool
+043,Classic,1243,#7B9EB5,Cool
+044,Gentle Blue,1276,#B5CFDB,Cool
+045,Oriental Blue,1306,#537C9B,Cool
+046,Rhine Blue,1319,#668CA4,Cool
+047,Grand Grape,7221,#77718F,Dark
+048,Winter Morn,7228,#B5C9D2,Cool
+049,Ink Blue,7246,#243D5A,Dark
+050,Blue Glory,7247,#527D9C,Cool
+051,Blue Charm,7248,#7BA5BD,Cool
+052,Fairytale,7251,#B4C8D4,Cool
+053,Blue Pottery,7271,#5D8297,Cool
+054,Washed Indigo,7272,#718AA1,Cool
+055,Scuba Blue,7273,#5FA6B6,Cool
+056,Summer Sky,7274,#86BBD0,Cool
+057,Blue Dawn,7275,#A4C6D4,Cool
+058,Mystic Dream,7293,#7B91A7,Cool
+059,Caspian Sea,7294,#4F758A,Cool
+060,Picture Perfect,7295,#A0C1CE,Cool
+061,Far Horizons,7296,#9AB9C7,Cool
+062,Blissful Blue,7297,#A8C9D5,Cool
+063,Sail Away,7298,#75A4B7,Cool
+064,Pluto,7301,#7D8D9A,Cool
+065,Pleasant Lake,7302,#8DB4C0,Cool
+066,Stormy Sea,7303,#536B78,Dark
+067,Piece Of Sky,7304,#B1D0DC,Cool
+068,Corsican Sky,7305,#9CBCCB,Cool
+069,Quiet Refuge,7306,#B8CCD1,Cool
+070,Twilight Zone,7325,#66788A,Dark
+071,Soothing Sapphire,7326,#536E91,Cool
+072,Inkjet,7327,#3E526D,Dark
+073,Cascade,0210,#A9C8A8,Cool
+074,Autumn Gold,0254,#C7A75A,Warm
+075,Venetian Green,0262,#5D927C,Cool
+076,Surf Green,0266,#83B8A5,Cool
+077,Dew Drop,0299,#B7D8C0,Cool
+078,Green Gold,0342,#A8A75D,Warm
+079,Pine-N,0757,#527A5D,Cool
+080,Sweet Lime,0758,#AFCB65,Bright
+081,Iceland,0763,#C4D8C7,Cool
+082,Misty Vale,0946,#A8B9A6,Cool
+083,Ocean Spray,0947,#9DB7A8,Cool
+084,Tapestry,0972,#6F8872,Cool
+085,Silver Crescent,0973,#A8B4A6,Cool
+086,Countryside,0G15,#789A78,Cool
+087,Waterfall,0G23,#86B8A5,Cool
+088,Celadon,0W50,#B4CBB5,Pastel
+089,Alpine,1205,#8FAE91,Cool
+090,Aquamarine,2357,#80C6B1,Cool
+091,Mehendi-N,2361,#7C8F57,Cool
+092,Cascade Green,2370,#87B69A,Cool
+093,English Elms,2387,#A1B18D,Cool
+094,Green Sleeves-N,2420,#739B75,Cool
+095,Green Whisper,2425,#B3CBAF,Cool
+096,Henna,2430,#8D8654,Warm
+097,Jade Green,2435,#4D9A7A,Cool
+098,Opaline Green,2463,#A5C9AE,Cool
+099,Peace,2467,#B5C7B0,Pastel
+100,Touch Of Spring-N,3226,#C6D9B9,Pastel
+101,Light Grey,6118,#C8CBC7,Neutral
+102,Rustic Turquoise,7438,#6D9B96,Cool
+103,Inner Peace,7443,#B5C9B9,Cool
+104,Sail Boat,7444,#8EB7AE,Cool
+105,Elm Grove,7453,#728F78,Cool
+106,Deep Teal,7454,#276C68,Dark
+107,Maritime Green,7455,#487F72,Cool
+108,Beige-N,0302,#D8C7A7,Neutral
+109,Ivory,0315,#EEE7D5,Neutral
+110,Buttercup-N,0336,#E7D58C,Warm
+111,Mid Cream,0358,#E5D0A8,Neutral
+112,Light Buff,0362,#D9C7A5,Neutral
+113,Magnolia,0387,#E8DDD0,Neutral
+114,Nut Brown-N,0419,#8B694F,Dark
+115,Dawn,0469,#D8C2A5,Neutral
+116,Light Coffee,0470,#B89A79,Neutral
+117,Spice,0477,#A97851,Warm
+118,Apricot-N,0501,#E7B99B,Warm
+119,Brick Red-N,0533,#A85543,Warm
+120,Antique White,0940,#E8DFD0,Neutral
+121,Twilight Hush,0944,#A7A39B,Neutral
+122,Bonewhite,0964,#DED7C7,Neutral
+123,Basra Pearl-N,0974,#D5C2A7,Neutral
+124,Coral Treasure,0975,#D98C78,Warm
+125,Windsor Cream,0989,#E6D1A7,Neutral
+126,Warmstone,0N02,#B6A894,Neutral
+127,Fawn,0N05,#C5B095,Neutral
+128,Silk Route,0N13,#D2BFA5,Neutral
+129,Palace Lights-N,0N17,#CDB797,Neutral
+130,Talc,0N22,#E3D9C7,Neutral
+131,Victorian Wisp,0N68,#C6BBAA,Neutral
+132,Mahogany,0R05,#704331,Dark
+133,Rose Petal,0R08,#C58F8D,Pastel
+134,Ceramic,3122,#D8C8B7,Neutral
+135,Pine Nut,3196,#B49A7D,Neutral
+136,Puppy Love,3203,#D0A98C,Warm
+137,Sandstone,3211,#C8A986,Neutral
+138,Brandy,4115,#A56E4D,Warm
+139,Burnt Yellowstone-N,4120,#A66F42,Warm
+140,Enlighten-N,4148,#D0B78E,Neutral
+141,Moody Maroon,4181,#70424B,Dark
+142,Pharoah,4194,#725343,Dark
+143,Roast Brown,4198,#704A38,Dark
+144,Sands Of Time,4202,#C3A980,Neutral
+145,Sweet Corn,4214,#E6D39A,Warm
+146,Swiss Coffee,4215,#DDD1BC,Neutral
+147,Desert Shrub-N,4234,#A98262,Warm
+148,Geranium,0509,#D85C62,Bright
+149,Signal Red,0520,#C83D3D,Bright
+150,Scarlet,8085,#D13E35,Bright
